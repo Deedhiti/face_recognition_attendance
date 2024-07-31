@@ -1,19 +1,19 @@
-FACE RECOGNITION ATTENDANCE SYSTEM 
+****FACE RECOGNITION ATTENDANCE SYSTEM ****
 
-OVERVIEW:
+**OVERVIEW:**
 
 This is a face recognition attendance system that uses OpenCV and face_recognition libraries to recognize faces and mark attendance. 
 The system is designed to be used in a variety of settings, including schools, offices, and other organizations.
 
 
-FEATURES:
+**FEATURES:**
 
 * Face recognition using OpenCV and face_recognition libraries
 * Attendance marking using a CSV file
 * Real-time face recognition using a webcam
 * Ability to add new faces to the system
 
-REQUIREMENTS:
+**REQUIREMENTS:**
 
 * Python 3.x
 * OpenCV library
@@ -21,7 +21,7 @@ REQUIREMENTS:
 * A webcam or camera device
 
 
-USAGE:
+**USAGE:**
 
 1. Clone the repository and navigate to the project directory.
 2. Install the required libraries by running pip install -r requirements.txt.
@@ -30,7 +30,7 @@ USAGE:
 5. The system will start recognizing faces and marking attendance in the Attendance.csv file.
 
    
-CONFIGURATION
+**CONFIGURATION**
 
 You can configure the system by modifying the following variables:
 * PATH: The path to the Person_Images directory.
